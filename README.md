@@ -1,8 +1,9 @@
 - 👋 Hi, I'm Ramadhirra
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning mechatronics and AI
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects and repos
 - 📫 You can email me at ramadhirraazzahraputri@upi.edu
+- ☀️ I have a strange obsession with the sun, so bare with it
 
 <!---
 honeypotalert/honeypotalert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
