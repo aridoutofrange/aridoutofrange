@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Ramadhirra
+- 👋 Hi, my name is Ramadhirra
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning mechatronics and AI
 - 💞️ I’m looking to collaborate on projects and repos
